@@ -1,0 +1,15 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(155,236,224,1);
+    color: white;
+    text-align: center;
+    height: 6%;
+}
+
+.instagram {
+    height: 40px;
+    padding: 10px;
+}

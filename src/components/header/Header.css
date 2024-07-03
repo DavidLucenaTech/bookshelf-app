@@ -1,0 +1,7 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    background: linear-gradient(0deg, rgba(241,158,245,1) 0%, rgba(155,236,224,1) 100%);
+    color: black;
+    font-size: 24px;
+}
