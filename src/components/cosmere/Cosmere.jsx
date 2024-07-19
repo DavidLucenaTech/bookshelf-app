@@ -29,9 +29,11 @@ export function Cosmere() {
     return (
         <div>
             <h1>Stormlight Archive</h1>
-            {
-                books && books.length > 0 && books.map((book)=><BookSheet {...book} key={book.id}/>)
-            }
+            <div className='grid'>
+                {
+                    books && books.length > 0 && books.map((book)=><BookSheet {...book} key={book.id}/>)
+                }
+            </div>
         </div>
     )
 }
