@@ -1,7 +1,6 @@
 .book {
     display: flex;
     width: 100%;
-    height: 15em;
 }
 
 .bookimage {
@@ -16,7 +15,9 @@
 .bookimage img {
     max-width: 100%;
     height: auto;
+    display: block;
 }
+
 
 .bookinfo {
     padding: 20px;
