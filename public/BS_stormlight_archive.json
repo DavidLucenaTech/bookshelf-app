@@ -43,7 +43,7 @@
 		"id": 4,
 		"title" :"Viento y verdad",
 		"sinopsis" : "",
-		"cover" : "",
+		"cover" : "src/assets/viento-verdad.jpg",
 		"author" : "Brandon Sanderson",
 		"score" : 0,
 		"editorial" : "Nova",
