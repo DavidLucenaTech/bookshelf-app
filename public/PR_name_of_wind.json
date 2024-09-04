@@ -1,0 +1,42 @@
+[
+	{
+		"id": 0,
+		"title" :"El nombre del viento",
+		"sinopsis" : "El nombre del viento es una novela de aventuras, de historias dentro de otras historias, de misterio, de amistad, de amor, de magia y de superación. La novela que ha consagrado a Patrick Rothfuss como fenómeno editorial de los últimos años",
+		"cover" : "src/assets/nombre-del-viento.jpg",
+		"author" : "Patrick Rothfuss",
+		"score" : 5,
+		"editorial" : "PLAZA & JANES",
+		"read": true
+	},
+	{
+		"id": 1,
+		"title" :"El temor de un hombre sabio",
+		"sinopsis" : "El hombre había desaparecido. El mito no. Músico, mendigo, ladrón, estudiante, mago, trotamundos, héroe y asesino, Kvothe había borrado su rastro. Y ni siquiera ahora que le han encontrado, ni siquiera ahora que las tinieblas invaden los rincones del mundo, está dispuesto a regresar.",
+		"cover" : "src/assets/temor-de-un-hombre-sabio.jpg",
+		"author" : "Patrick Rothfuss",
+		"score" : "Pendiente",
+		"editorial" : "PLAZA & JANES",
+		"read": false
+	},
+	{
+		"id": 2,
+		"title" :"La música del silencio",
+		"sinopsis" : "La Universidad, el bastión del conocimiento, atrae a las mentes más brillantes, que acuden para aprender los misterios de ciencias como la artificería y la alquimia. Sin embargo, bajo esos edificios y sus concurridas aulas hay un laberinto de túneles antiguos, de salas y habitaciones abandonadas, de pasillos serpenteantes y semiderruidos…La Subrealidad.",
+		"cover" : "src/assets/musica-del-silencio.jpg",
+		"author" : "Patrick Rothfuss",
+		"score" : "Pendiente",
+		"editorial" : "PLAZA & JANES",
+		"read": false
+	},
+	{
+		"id": 3,
+		"title" :"El estrecho sendero entre deseos",
+		"sinopsis" : "Patrick Rothfuss vuelve al mundo de la Crónica del Asesino de Reyes con una novela protagonizada por Bast, uno de los personajes más queridos de los lectores.Si hay algo que Bast sabe hacer es negociar. Verlo hacer un trato es ver trabajar a un artista..., pero incluso el pincel de un maestro puede errar. ",
+		"cover" : "src/assets/estrecho-sendero-entre-deseos.jpg",
+		"author" : "Patrick Rothfuss",
+		"score" : "Pendiente",
+		"editorial" : "PLAZA & JANES",
+		"read": false
+	}
+]
