@@ -1,0 +1,22 @@
+[
+	{
+		"id": 0,
+		"title" :"Alas de sangre",
+		"sinopsis" : "Vuela... o muere. El nuevo fenómeno de fantasía juvenil del que todo el mundo habla.«¡La novela de fantasía más brutalmente adictiva que he leído en una década!» Tracy Wolff, autora de la Serie CraveViolet Sorrengail creía que se uniría al Cuadrante de los Escribas para vivir una vida tranquila, sin embargo, por órdenes de su madre, debe unirse a los miles de candidatos que, en el Colegio de Guerra de Basgiath, luchan por formar parte de la élite de Navarre",
+		"cover" : "src/assets/alas-sangre.jpg",
+		"author" : "Rebecca Yarros",
+		"score" : 4,
+		"editorial" : "Paneta",
+		"read": true
+	},
+	{
+		"id": 1,
+		"title" :"Alas de hierro",
+		"sinopsis" : "El segundo volumen de la serie Empíreo tras Alas de sangre.El fenómeno juvenil de fantasía del que todo el mundo habla.Todos esperaban que Violet Sorrengail muriera durante su primer año en el Colegio de Guerra Basgiath, incluso ella misma. Pero la Trilla fue tan solo la primera de una serie de pruebas imposibles destinadas a deshacerse de los indignos y los desafortunados.",
+		"cover" : "src/assets/alas-hierro.jpg",
+		"author" : "Rebecca Yarros",
+		"score" : 4,
+		"editorial" : "Planeta",
+		"read": true
+	}
+]
