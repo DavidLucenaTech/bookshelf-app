@@ -1,0 +1,43 @@
+[
+	{
+		"id": 0,
+		"title" :"Trono de cristal",
+		"sinopsis" : "En las tenebrosas minas de sal de Endovier, una muchacha de dieciocho años cumple cadena perpetua. Es una asesina profesional, la mejor en lo suyo, pero ha cometido un error fatal. La han capturado. El joven capitán Westfall le ofrece un trato: la libertad a cambio de un enorme sacrificio. Celaena debe representar al príncipe en un torneo a muerte, en el que deberá luchar con los asesinos y ladrones más peligrosos del reino.",
+		"cover" : "src/assets/trono-cristal.jpg",
+		"author" : "Sarah J. Mass",
+		"score" : 5,
+		"editorial" : "Hidra",
+		"read": true
+	},
+	{
+		"id": 1,
+		"title" :"Corona de medianoche",
+		"sinopsis" : "Celaena Sardothien se ha convertido en la campeona del rey, aunque dista mucho de ser leal a la Corona. El rey es perverso, y Celaena, atrapada en la red de intrigas y misterios del castillo de cristal, no puede confiar en nadie, ni siquiera en el príncipe Dorian, en el capitán de la guardia, Chaol, o en su amiga, la princesa Nehemia. Cuando algo absolutamente inesperado suceda, Celaena se verá obligada a decidir de una vez por todas a quién ofrecerle su lealtad.",
+		"cover" : "src/assets/corona-medianoche.jpg",
+		"author" : "Sarah J. Mass",
+		"score" : "Pendiente",
+		"editorial" : "Hidra",
+		"read": false
+	},
+	{
+		"id": 2,
+		"title" :"Heredera de fuego",
+		"sinopsis" : "Como asesina del rey, Celaena Sardothien está obligada a servir al tirano que asesinó a su mejor amiga. Pero se ha prometido a sí misma que se lo hará pagar. Las respuestas que Celaena necesita para destruir al rey se encuentran más allá del mar, en Wendlyn. Y Chaol, capitán de la guardia real, ha puesto su futuro en peligro al enviarla allí. Y mientras Celaena busca su destino en Wendlyn, una nueva amenaza se prepara para asaltar los cielos.",
+		"cover" : "src/assets/heredera-fuego.jpg",
+		"author" : "Sarah J. Mass",
+		"score" : "Pendiente",
+		"editorial" : "Hidra",
+		"read": false
+	},
+	{
+		"id": 3,
+		"title" :"La espada de la asesina",
+		"sinopsis" : "La esperadísima precuela de Trono de cristal nos presenta cinco nuevas historias en las que se nos desvelan secretos del pasado de la asesina Celaena Sardothien. Celaena Sardothien es la asesina más temida de Adarlan. Como parte del Gremio de Asesinos, ha jurado proteger a su maestro, Arobynn Hamel, pero Celaena no escucha a nadie y solo confía en su amigo Sam.",
+		"cover" : "src/assets/espada-asesina.jpg",
+		"author" : "Sarah J. Mass",
+		"score" : "Pendiente",
+		"editorial" : "Hidra",
+		"read": false
+	}
+	
+]
