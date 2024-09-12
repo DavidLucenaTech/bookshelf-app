@@ -7,7 +7,8 @@
 		"author" : "Brandon Sanderson",
 		"score" : 5,
 		"editorial" : "Nova",
-		"read": true
+		"read": true,
+		"review": "https://www.instagram.com/p/CmwObdQMaH4/"
 	},
 	{
 		"id": 1,
@@ -17,7 +18,8 @@
 		"author" : "Brandon Sanderson",
 		"score" : 4,
 		"editorial" : "Nova",
-		"read": true
+		"read": true,
+		"review": "https://www.instagram.com/p/CnM-39orYMA/"
 	},
 	{
 		"id": 2,
@@ -27,7 +29,8 @@
 		"author" : "Brandon Sanderson",
 		"score" : 5,
 		"editorial" : "Nova",
-		"read": true
+		"read": true,
+		"review": "https://www.instagram.com/p/CoxH7zzDBAW/"
 	},
 	{
 		"id": 3,
@@ -37,7 +40,8 @@
 		"author" : "Brandon Sanderson",
 		"score" : 4,
 		"editorial" : "Nova",
-		"read": true
+		"read": true,
+		"review": "https://www.instagram.com/p/Crys8dZrG77/"
 	},
 	{
 		"id": 4,

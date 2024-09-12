@@ -1,0 +1,52 @@
+[
+    {
+		"id": 0,
+		"title" :"El camino de los reyes",
+		"sinopsis" : "En Roshar, un mundo de piedra y tormentas, extrañas tempestades de increíble potencia barren el rocoso territorio de tal manera que han dado forma a una nueva civilización escondida. Han pasado siglos desde la caída de las diez órdenes consagradas conocidas como los Caballeros Radiantes, pero sus espadas y armaduras aún permanecen.",
+		"cover" : "src/assets/camino-de-los-reyes.jpg",
+		"author" : "Brandon Sanderson",
+		"score" : 5,
+		"editorial" : "Nova",
+		"read": true
+	},
+    {
+		"id": 1,
+		"title" :"Trono de cristal",
+		"sinopsis" : "En las tenebrosas minas de sal de Endovier, una muchacha de dieciocho años cumple cadena perpetua. Es una asesina profesional, la mejor en lo suyo, pero ha cometido un error fatal. La han capturado. El joven capitán Westfall le ofrece un trato: la libertad a cambio de un enorme sacrificio. Celaena debe representar al príncipe en un torneo a muerte, en el que deberá luchar con los asesinos y ladrones más peligrosos del reino.",
+		"cover" : "src/assets/trono-cristal.jpg",
+		"author" : "Sarah J. Mass",
+		"score" : 5,
+		"editorial" : "Hidra",
+		"read": true
+	},
+    {
+		"id": 2,
+		"title" :"El nombre del viento",
+		"sinopsis" : "El nombre del viento es una novela de aventuras, de historias dentro de otras historias, de misterio, de amistad, de amor, de magia y de superación. La novela que ha consagrado a Patrick Rothfuss como fenómeno editorial de los últimos años",
+		"cover" : "src/assets/nombre-del-viento.jpg",
+		"author" : "Patrick Rothfuss",
+		"score" : 5,
+		"editorial" : "PLAZA & JANES",
+		"read": true
+	},
+    {
+		"id": 3,
+		"title" :"Alas de hierro",
+		"sinopsis" : "El segundo volumen de la serie Empíreo tras Alas de sangre.El fenómeno juvenil de fantasía del que todo el mundo habla.Todos esperaban que Violet Sorrengail muriera durante su primer año en el Colegio de Guerra Basgiath, incluso ella misma. Pero la Trilla fue tan solo la primera de una serie de pruebas imposibles destinadas a deshacerse de los indignos y los desafortunados.",
+		"cover" : "src/assets/alas-hierro.jpg",
+		"author" : "Rebecca Yarros",
+		"score" : 4,
+		"editorial" : "Planeta",
+		"read": true
+	},
+    {
+		"id": 4,
+		"title" :"El ritmo de la guerra",
+		"sinopsis" : "Tras forjar una coalición de resistencia humana contra la invasión enemiga, Dalinar Kholin y sus Caballeros Radiantes llevan un año librando una guerra prolongada y brutal. Ningún bando ha logrado obtener ventaja.Mientras los nuevos descubrimientos tecnológicos cambian el trasfondo de la contienda, el enemigo prepara una operación audaz y peligrosa. La carrera armamentística resultante desafiará el mismo núcleo de los ideales Radiantes y quizá revele los secretos de la antiquísima torre.",
+		"cover" : "src/assets/ritmo-de-la-guerra.jpg",
+		"author" : "Brandon Sanderson",
+		"score" : 4,
+		"editorial" : "Nova",
+		"read": true
+	}
+]

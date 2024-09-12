@@ -18,6 +18,12 @@ export function App() {
       <section>
           <Routes>
             <Route 
+                path='/'
+                element= {
+                  <Favorites></Favorites>
+                }
+              />
+            <Route 
               path='/favorites'
               element= {
                 <Favorites></Favorites>
