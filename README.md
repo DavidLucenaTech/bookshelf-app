@@ -1,8 +1,4 @@
-# React + Vite
+# React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Aplicación hecha en React que recupera los libros de diferentes sagas de archivos JSON y los muestra en diferentes apartados de la aplicación
+![image](https://github.com/user-attachments/assets/60472344-e7f8-4380-8aa3-80ed6ec71f1b)
